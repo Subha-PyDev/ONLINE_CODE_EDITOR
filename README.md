@@ -1,5 +1,4 @@
-Online Code Editor with Django & Python Execution
-
+**##Online Code Editor with Django & Python Execution**
 ## Overview
 
 This project is a simple yet functional web-based code editor built using *Django* and *Django REST Framework*. It enables users to write, execute, and save Python code directly from a browser interface.
@@ -47,6 +46,6 @@ This project is a simple yet functional web-based code editor built using *Djang
 4. The server safely executes the code and returns the output or error.
 5. Users can also view a list of their previously executed snippets.
 
-**###Run the development server:**
+**##Run the development server:**
 
    python manage.py runserver
